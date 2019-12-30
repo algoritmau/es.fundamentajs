@@ -1,0 +1,3 @@
+# Introducción a JavaScript
+
+JavaScript se ha vuelto omnipresente en el desarrollo web de hoy día. Este poderoso lenguaje se ha convertido en una herramienta obligatoria a entender para cualquier desarrollador web (o al menos, pretender que lo hacen 😅). En este artículo analizaremos JavaScript desde una perspectiva de alto nivel, pasando por preguntas como *¿Qué es JavaScript?*, *¿Qué podemos crear con este lenguaje?* y *¿Por qué deberías aprenderlo?* De igual manera, estudiaremos su propósito y las principales herramientas necesarias para comenzar a escribir JavaScript.

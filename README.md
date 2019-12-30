@@ -1,4 +1,4 @@
-![Cover of Fundamentals of JS](./course-cover-es.png)
+![Cover of Fundamentals of JS](./portada-curso.png)
 
 # fundamentalsOf{JS}™ - Fundamentos de JavaScript
 
@@ -8,7 +8,7 @@ Tu retroalimentación y sugerencias son bienvenidas. Siéntete libre de enviar l
 
 ## Contenido
 
-### 1. Introducción a JavaScript
+### 1. [Introducción a JavaScript](/introduccion/intro.md)
 
 #### 1.1 ¿Qué es JavaScript?
 
