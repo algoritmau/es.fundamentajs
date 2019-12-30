@@ -2,7 +2,7 @@
 
 # fundamentalsOf{JS}™ - Fundamentos de JavaScript
 
-Este es un curso introductorio al lenguaje JavaScript. Este proyecto refleja el camino recque recorrí para llegar a ser un desarrollador de JavaScript. Referencio múltiples fuentes para complementar la información. He decidido compartir esto con todos como un punto de entrada al mundo de JavaScript para todas aquellas personas que desean unirse a nosotros.
+Este es un curso introductorio al lenguaje JavaScript. Este proyecto refleja el camino que recorrí para llegar a ser un desarrollador de JavaScript. Referencio múltiples fuentes para complementar la información. He decidido compartir esto con todos como un punto de entrada al mundo de JavaScript para todas aquellas personas que desean unirse a nosotros.
 
 Tu retroalimentación y sugerencias son bienvenidas. Siéntete libre de enviar la tuya mediante Pull Request.
 
