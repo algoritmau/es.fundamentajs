@@ -1,4 +1,4 @@
-![Cover of Fundamentals of JS](./portada-curso.png)
+![Portada del curso fundamentaJS](./assets/img/fundamentajs-cover.png)
 
 # fundamentalsOf{JS}™ - Fundamentos de JavaScript
 
